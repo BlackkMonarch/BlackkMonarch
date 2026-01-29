@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm BlackkMonarch
 
-<!--
-**BlackkMonarch/BlackkMonarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python Developer | 🗄️ SQL Engineer | Web3 & Automation Builder | Crypto Trader
 
-Here are some ideas to get you started:
+I build fast, efficient tools using **Python and SQL**, focused on crypto systems, automation, and data-driven applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 What I Do
+- 🤖 Build crypto & trading bots with Python
+- 📊 Design and manage databases with SQL
+- 🔍 Wallet & transaction monitoring systems
+- ⚙️ Automation tools & backend services
+- 🧠 Data tracking and analysis for trading
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Python, SQL
+- **Databases:** MySQL, PostgreSQL, SQLite
+- **Tools:** APIs, Git, Web3 SDKs
+
+---
+
+## 📈 Current Focus
+- High-performance trading systems
+- Database-backed crypto tools
+- Scalable automation platforms
+
+---
+
+## 🎯 Goals
+- 💰 Build profitable trading infrastructure
+- 🚀 Ship production-ready systems
+- 👨‍💻 Master Python & SQL deeply
+- 🤝 Collaborate on serious tech projects
+
+---
+
+## 🏆 Highlights
+- Built automated trading bots
+- Developed wallet monitoring tools
+- Created database-driven applications
+- Worked on crypto marketplace systems
+
+---
+
+## 📫 Connect
+- GitHub: github.com/blackkmonarch
+- Twitter/X: [Add link]
+- Discord: [Add tag]
+
+---
+
+> "Simple tools. Powerful systems."
