@@ -30,10 +30,9 @@ I build fast, efficient tools using **Python and SQL**, focused on crypto system
 ---
 
 ## 🎯 Goals
-- 💰 Build profitable trading infrastructure
-- 🚀 Ship production-ready systems
-- 👨‍💻 Master Python & SQL deeply
-- 🤝 Collaborate on serious tech projects
+-  Build profitable trading infrastructure
+-  Ship production-ready systems
+-  Collaborate on serious tech projects
 
 ---
 
@@ -47,8 +46,8 @@ I build fast, efficient tools using **Python and SQL**, focused on crypto system
 
 ## 📫 Connect
 - GitHub: github.com/blackkmonarch
-- Twitter/X: [Add link]
-- Discord: [Add tag]
+- Twitter/X: (https://x.com/BlackkMonarch)
+- Discord: (https://discord.com/users/1407132583879512184)
 
 ---
 
